@@ -7,5 +7,5 @@ An interesting data analysis challenge for a passionate that I am
 # Files
 It contains all the data sets according to the SDG
 
-# ANalysis
+# Analysis
 My Team focused on the Health Data and provided some descriptives statistics
